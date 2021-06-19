@@ -32,6 +32,7 @@ import * as authActions from '../../actions/authActions';
           <div className="container med contact">
             <div className="section funnel-section">
                 <div className="form-card">
+                    <h2 className="form-heading center">First time Users Register First</h2>
                     <h2 className="form-heading center">Enter Login details</h2>
                     <div className="form-section">
                         <div className="input-group full"><label>Email</label>
